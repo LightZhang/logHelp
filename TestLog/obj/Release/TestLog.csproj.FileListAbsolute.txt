@@ -1,0 +1,9 @@
+C:\Users\light\source\repos\LogHelp\TestLog\bin\Release\TestLog.exe
+C:\Users\light\source\repos\LogHelp\TestLog\bin\Release\TestLog.pdb
+C:\Users\light\source\repos\LogHelp\TestLog\bin\Release\LogHelp.dll
+C:\Users\light\source\repos\LogHelp\TestLog\bin\Release\LogHelp.pdb
+C:\Users\light\source\repos\LogHelp\TestLog\obj\Release\TestLog.csprojAssemblyReference.cache
+C:\Users\light\source\repos\LogHelp\TestLog\obj\Release\TestLog.csproj.CoreCompileInputs.cache
+C:\Users\light\source\repos\LogHelp\TestLog\obj\Release\TestLog.csproj.CopyComplete
+C:\Users\light\source\repos\LogHelp\TestLog\obj\Release\TestLog.exe
+C:\Users\light\source\repos\LogHelp\TestLog\obj\Release\TestLog.pdb

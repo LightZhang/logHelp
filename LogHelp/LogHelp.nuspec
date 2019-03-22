@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>light</authors>
+    <owners>light</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>轻量级 日志记录功能,支持cs,bs 两种架构</description>
+    <releaseNotes>轻量级 日志记录功能,支持cs,bs 两种架构</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>日志 轻量级</tags>
+  </metadata>
+</package>

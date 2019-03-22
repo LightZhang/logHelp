@@ -1,0 +1,5 @@
+C:\Users\light\source\repos\LogHelp\LogHelp\bin\Debug\LogHelp.dll
+C:\Users\light\source\repos\LogHelp\LogHelp\bin\Debug\LogHelp.pdb
+C:\Users\light\source\repos\LogHelp\LogHelp\obj\Debug\LogHelp.csproj.CoreCompileInputs.cache
+C:\Users\light\source\repos\LogHelp\LogHelp\obj\Debug\LogHelp.dll
+C:\Users\light\source\repos\LogHelp\LogHelp\obj\Debug\LogHelp.pdb
