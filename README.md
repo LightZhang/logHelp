@@ -1,29 +1,14 @@
-# water-model
+# logHple
 
-## Project setup
-```
-npm install
-```
+ 轻量级日志功能 webApi,winForm ...
 
-### Compiles and hot-reloads for development
+### 使用方法
 ```
-npm run serve
-```
+    LogHelp.Log.Write("test");
 
-### Compiles and minifies for production
-```
-npm run build
+    LogHelp.Log.WriteError("test");
+
+    LogHelp.Log.WriteToFile("222","sdsdsdsd");
 ```
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
